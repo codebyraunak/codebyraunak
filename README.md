@@ -1,10 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Raunak%20Kumar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=1st%20year%20CSE%20Student%20at%20NIE%20Mysore%20%7CGSA2026&descSize=18&descAlignY=55&textBg=false"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=codebyraunak">
-    <img src="https://komarev.com/ghpvc/?username=codebyraunak&label=Profile%20views&color=00FFFF&style=flat-square" alt="codebyraunak's profile views" />
-  </a>
-</p>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
