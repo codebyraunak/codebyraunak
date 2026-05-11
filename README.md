@@ -59,11 +59,7 @@
 
 </p>
 
-<p align="center">
-  <a href="https://github.com/codebyraunak">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codebyraunak&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+
 
 ![Top language](https://stats.pphat.top/languages?username=codebyraunak)
 <br/>
